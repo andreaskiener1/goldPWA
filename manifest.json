@@ -3,7 +3,7 @@
     "background_color": "#f69435",
     "display": "fullscreen",
     "scope": "/",
-    "start_url": "/index.html",
+    "start_url": "./index.html",
     "name": "goldpwa",
     "short_name": "goldpwa",
     "icons": [
